@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Filtro per dispositivi DJI -->
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="4" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="5" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="6" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="34" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="38" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="39" />
+    <usb-device class="255" subclass="255" protocol="255" vendor-id="8888" product-id="40" />
+</resources>
